@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "data": {
+    "uploader_info": {
+      "uploader": "单依纯",
+      "uploader_id": "20713882",
+      "url": "https://space.bilibili.com/20713882?spm_id_from=333.337.0.0"
+    },
+    "videos": [
+      {
+        "index": 1,
+        "title": "",
+        "id": "BV1DnP3zGEkf",
+        "url": "https://www.bilibili.com/video/BV1DnP3zGEkf"
+      },
+      {
+        "index": 2,
+        "title": "",
+        "id": "BV1Vcf4BCE1g",
+        "url": "https://www.bilibili.com/video/BV1Vcf4BCE1g"
+      },
+      {
+        "index": 3,
+        "title": "",
+        "id": "BV1WKZyBgE5H",
+        "url": "https://www.bilibili.com/video/BV1WKZyBgE5H"
+      }
+    ],
+    "video_count": 3,
+    "video_details": [
+      {
+        "title": "【单依纯《还有什么更好的》】MV",
+        "id": "BV1DnP3zGEkf",
+        "url": "https://www.bilibili.com/video/BV1DnP3zGEkf",
+        "duration_string": "3:46",
+        "view_count": 425066,
+        "like_count": 30640,
+        "comment_count": 1869,
+        "upload_date": "20260302",
+        "tags": [
+          "发现《还有什么更好的》",
+          "单依纯二专纯妹妹上线",
+          "MV",
+          "单依纯",
+          "还有什么更好的",
+          "单依纯还有什么更好的"
+        ]
+      },
+      {
+        "title": "变个魔术，我们二巡见",
+        "id": "BV1Vcf4BCE1g",
+        "url": "https://www.bilibili.com/video/BV1Vcf4BCE1g",
+        "duration_string": "15",
+        "view_count": 505263,
+        "like_count": 34462,
+        "comment_count": 1413,
+        "upload_date": "20260225",
+        "tags": [
+          "发现《魔术秀》",
+          "单依纯纯妹妹巡回演唱会"
+        ]
+      },
+      {
+        "title": "【单依纯《我表示理解》】2026我表示理解万岁！",
+        "id": "BV1WKZyBgE5H",
+        "url": "https://www.bilibili.com/video/BV1WKZyBgE5H",
+        "duration_string": "3:20",
+        "view_count": 255513,
+        "like_count": 17372,
+        "comment_count": 946,
+        "upload_date": "20260217",
+        "tags": [
+          "发现《我表示理解》",
+          "上B站看春晚",
+          "单依纯我表示理解"
+        ]
+      }
+    ],
+    "details_count": 3
+  },
+  "error": null
+}
